@@ -1,4 +1,16 @@
 /* #header, #hero, #gallery, #footer genişlikleri 750px olmalı */
+#header {
+    width: 750px;    
+}
+#hero {
+    width: 750px;
+}
+#gallery {
+    width: 750px;
+}
+#footer {
+    width: 750px;
+}
 
 /* #menu bir <nav> olmalı */
 /* #menu içindeki linklerin arka plan rengi: #777 */
